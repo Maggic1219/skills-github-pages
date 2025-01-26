@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Hello, this is Maggic! Welcome to my blog
 ---
 
